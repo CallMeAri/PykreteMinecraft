@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom":"intromod:block/pykrete_bottom",
+    "top": "intromod:block/pykrete_top",
+    "side": "intromod:block/pykrete"
+  }
+}

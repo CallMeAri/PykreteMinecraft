@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model":  "intromod:block/pykrete",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "intromod:block/pykrete"
+
+    },
+    "axis=z": {
+      "model": "intromod:block/pykrete",
+      "x":90
+    }
+  }
+}
